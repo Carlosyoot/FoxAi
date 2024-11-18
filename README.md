@@ -54,10 +54,10 @@ Este aplicativo será uma excelente ferramenta para profissionais que lidam com 
 
 ## Como Contribuir
 Este projeto está em fase inicial, e contribuições são bem-vindas! Caso queira colaborar, siga os passos:
-1. Realize um fork deste repositório.
-2. Realize dicas e sugestões de melhorias atráves do pull request.
-3. Selecione a label Suggestion
-4. Envie o Pull Request explicando as sugestões.
+1. Realize uma requisição de Issues deste repositório.
+2. Realize dicas e sugestões de melhorias atráves do Issues.
+3. Selecione a label Suggestion.
+4. Envie o Issues explicando as sugestões.
 
 ## Previews
 Abaixo segue algumas imagens do desenvolvimento da aplicação, bem como as funcionalidades
