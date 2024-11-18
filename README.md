@@ -4,9 +4,14 @@ Projeto em desenvolvimento
 
 # FoxAi - Gerenciamento Inteligente de Emails
 
+<p align="left">
+  <img src="assets/bot-avatar.png" alt="Descrição da Imagem" width="300"/>
+</p>
+
 **FoxAi** é um aplicativo de desktop em desenvolvimento que utiliza Inteligência Artificial para facilitar o gerenciamento de emails. Com ele, os usuários poderão organizar, responder e transformar emails em tarefas diárias de forma automática, otimizando o fluxo de trabalho e a produtividade.
 
 Este projeto está sendo desenvolvido com **Electron**, utilizando a **API do Gmail** e recursos avançados de IA para oferecer uma experiência de gerenciamento de emails eficiente e personalizada. Embora ainda esteja em fase inicial, a meta é criar uma aplicação robusta que ajude usuários a automatizar tarefas repetitivas relacionadas a emails, além de responder a perguntas frequentes em tempo real.
+
 
 > **Status do projeto**: Em desenvolvimento ⚙️
 
@@ -15,14 +20,16 @@ Este projeto está sendo desenvolvido com **Electron**, utilizando a **API do Gm
 2. [Funcionalidades Planejadas](#funcionalidades-planejadas)
 3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 4. [Como Contribuir](#como-contribuir)
+5. [Images](#previews)
 5. [Autores](#autores)
 
 ## Sobre o Projeto
-O **SmartEmail** visa oferecer uma plataforma desktop inteligente de gerenciamento de emails com as seguintes funcionalidades:
+O **FoxAi** visa oferecer uma plataforma desktop inteligente de gerenciamento de emails com as seguintes funcionalidades:
 - Organização automática de emails por categorias e prioridades.
 - Transformação de emails importantes em tarefas diárias de forma automática.
 - Respostas automáticas e assistidas por IA para emails comuns.
 - Visualização em tempo real da caixa de entrada do usuário.
+- Assistência de reconhecimento de voz.
   
 Este aplicativo será uma excelente ferramenta para profissionais que lidam com alto volume de emails e precisam de respostas rápidas e organização eficiente. 
 
@@ -49,10 +56,12 @@ Este aplicativo será uma excelente ferramenta para profissionais que lidam com 
 ## Como Contribuir
 Este projeto está em fase inicial, e contribuições são bem-vindas! Caso queira colaborar, siga os passos:
 1. Realize um fork deste repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Faça o commit de suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Envie suas alterações para o repositório remoto (`git push origin feature/nova-feature`).
-5. Abra uma Pull Request explicando as mudanças.
+2. Realize dicas e sugestões de melhorias atráves do pull request.
+3. Abra uma Pull Request explicando as mudanças.
+
+## Previews
+Abaixo segue algumas imagens do desenvolvimento da aplicação, bem como as funcionalidades
+
 
 ## Autores
 - **Carlos Daniel** - Desenvolvedor Full Stack | [GitHub](https://github.com/Carlosyoot)
